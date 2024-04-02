@@ -9,3 +9,4 @@
 - 브랜치 생성 후 이동하기:git checkout -b"<브랜치 이름>"
 - Merge 종류:Merge Commit,Squash and Merge,Rebase and Merge
 - https://github.com/yongwoo05/2024-1-Beginner-Study/pull/2
+- https://github.com/yongwoo05/2024-1-Beginner-Study/pull/2
