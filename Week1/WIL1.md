@@ -1,4 +1,3 @@
-Weekly-I-Learned
 
 -github 최초 설정 
 -git config --global user.name "<깃허브 이름>"
@@ -15,5 +14,5 @@ Weekly-I-Learned
 -단점:표준이 없다,표준이 없기 때문에 도구에 따라서 변환방식이나 생성물이 다르다,모든 HTML 마크업을 대신하지 못한다.
 -마크다운 글자 크기 
 -#>##>###>####>#####>######
-
 https://github.com/yongwoo05/yongwoo05
+
